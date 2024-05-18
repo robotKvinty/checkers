@@ -1,0 +1,33 @@
+C:\Users\damir150123\Desktop\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\damir150123\Desktop\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\damir150123\Desktop\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\damir150123\Desktop\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\bin\Debug\Checkers.exe
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\bin\Debug\Checkers.pdb
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.exe
+C:\Users\myname1\Desktop\Checkers current\Checkers итог видео\Checkers\obj\Debug\Checkers.pdb
+C:\Users\myname1\Desktop\Checkers current\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\myname1\Desktop\Checkers current\Checkers\bin\Debug\Checkers.exe
+C:\Users\myname1\Desktop\Checkers current\Checkers\bin\Debug\Checkers.pdb
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.csproj.SuggestedBindingRedirects.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.exe
+C:\Users\myname1\Desktop\Checkers current\Checkers\obj\Debug\Checkers.pdb
